@@ -1,0 +1,10 @@
+
+
+Column of the data are:
+
+url - URL of the article
+neg - negative sentiment score (0.0 - 1.0)
+neu - neutral sentiment score (0.0 - 1.0)
+pos - postive sentiment score (0.0 - 1.0)
+compound - compound sentiment score (-1.0 - 1.0)
+
